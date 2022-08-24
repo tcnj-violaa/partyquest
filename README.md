@@ -5,3 +5,6 @@ File explanation:
 * party_new.p8 - a PICO-8 cartridge implementing loading dialogue scripts from an external "databank" cart
 * d_bank_1.p8 - a cartridge acting as a data store for dialogue scripts, including a test script
 * party_orig_say.p8 - same as party_new.p8 but storing dialogue scripts internal to the cart, including a more significant sample script
+
+## GIF demonstration
+![gif demonstration of party_orig_say.p8](https://github.com/tcnj-violaa/partyquest/blob/main/party_orig_say_1.gif?raw=true)

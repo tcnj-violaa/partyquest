@@ -1,5 +1,5 @@
 # partyquest
-A demo cutscene system for the PICO-8 fantasy console, including handcrafted sprite and animation systems. Last updated in 2020, uploaded in 2022 for archival purposes.
+A demo cutscene system for the [PICO-8 fantasy console](https://www.lexaloffle.com/pico-8.php), including handcrafted sprite and animation systems. Last updated in 2020, uploaded in 2022 for archival purposes.
 
 File explanation:
 * party_new.p8 - a PICO-8 cartridge implementing loading dialogue scripts from an external "databank" cart
